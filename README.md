@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently "Living The Dreem...".
+    🎓 I am currently "Living The Dream...".
     
     🌱 I am currently learning "how to learn".
     

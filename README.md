@@ -3,13 +3,13 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently **Living The Dreem...**.
+    🎓 I am currently "Living The Dreem...".
     
-    🌱 I am currently learning **Java** and also interested in **Web Development**.
+    🌱 I am currently learning "how to learn".
     
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    🎯 My Goal is to Contribute my nation.
     
-    ✨ I love to create different types of **contents**.
+    ✨ I love to play cricket but now i am not playing.
   </td> 
     
 </tr>
